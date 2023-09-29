@@ -1,0 +1,42 @@
+body {
+    background-color:#FFFBF5;}
+
+h1{ 
+    color: #571a6b;
+    background-color:#F7EFE5;
+    border-radius: 25px;
+    border: 3px solid #571a6b;
+    padding: 20px;
+    height: 40px;
+    text-align: center;
+    font-size:xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+h5{
+    color:#fda63a;
+    font-size: larger;}
+
+#MyMedia{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    padding: 20px;
+    text-align: center;
+    border: 5px double;
+    color: #fda63a;}
+
+#Myfirstinfo{
+    color: darkorchid;
+    background-color: #F7EFE5;
+    border-style: dashed;
+    border-width: 3px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;}
+
+#GENEINFO{
+    font-size: 40px;}
+
+li{
+    font-size: large;}
